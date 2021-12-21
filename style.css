@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=Fuzzy+Bubbles&family=Lato&display=swap');
+
+body{
+    font-family: 'Fuzzy Bubbles', cursive;
+    font-size: 20px;
+    background-color: rgb(201, 201, 250);
+}
+
+div{
+    background-color: rgb(247, 240, 240);
+    text-align: center;
+    border: 5px solid black;
+    border-radius: 50px;
+    margin-top: 200px;
+    margin-left: 400px;
+    margin-right: 400px;
+}
